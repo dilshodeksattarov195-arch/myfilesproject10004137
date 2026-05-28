@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercncrypt",
+        "uuid": 21719250,
+        "checksum": "7gg5ic"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
